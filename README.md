@@ -1,2 +1,2 @@
 # Python-Basics
-Modules for basic and advanced python practice
+Modules for basic and advanced python practice.
